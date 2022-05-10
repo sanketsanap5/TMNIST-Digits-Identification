@@ -26,5 +26,5 @@ A Convolutional Neural Network (CNN) is a deep learning technique which can take
 ## Model Learning Curve
 ![image](https://user-images.githubusercontent.com/71927468/167688137-c0829756-269f-481a-adf3-589c2b14d058.png)
 
-## Model Accuracy Matrix
+## Model Accuracy & Confusion Matrix
 <img width="360" alt="Screen Shot 2022-05-10 at 1 32 47 PM" src="https://user-images.githubusercontent.com/71927468/167688256-d7378848-4950-49f0-8acd-a8bb5ae303dd.png">
